@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/pagelsebastian/Testing_azure/_apis/build/status/SebastianPag.pipelines-python-django)](https://dev.azure.com/pagelsebastian/Testing_azure/_build/latest?definitionId=1)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
